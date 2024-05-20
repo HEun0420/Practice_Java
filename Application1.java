@@ -8,6 +8,9 @@ public static void main(String[] args) {
     short snum; // 2 byte
     int inum; // 4 byte
     long lnum; // 8 byte
+     */
 
 
+
+    
 }
